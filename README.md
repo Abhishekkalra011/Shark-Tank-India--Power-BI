@@ -1,6 +1,7 @@
 # Shark-Tank-India--Power-BI
 ![image](https://github.com/user-attachments/assets/75944a0e-66fe-4760-8d98-503f0bb72448)
-
+## Report View
+https://app.powerbi.com/view?r=eyJrIjoiOTE4YmM3OWYtYTg5YS00NjNlLTk1ZTMtYTk2ODY3ZGNmMTFlIiwidCI6IjU1YmQ5ZTdkLTdkMWEtNGZlNy1hNmZmLTJhOWY0YzdkZjAxYSJ9
 ## Project Overview:
 The primary objective of this project is to analyze the investment patterns and trends in the Indian startup ecosystem, as depicted by the Shark Tank India show. Specifically, the project aims to:
 1.	Identify Popular Domains: Determine the most popular domains or sectors that attract the most investment.
